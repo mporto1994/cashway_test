@@ -1,0 +1,79 @@
+{
+  "semana": [
+    {
+      "date": "2020-08-25",
+      "description": "DEP. BLOQUEADO 2 DIAS",
+      "complement": "684835",
+      "amount": "150.0"
+    },
+    {
+      "date": "2020-08-25",
+      "description": "DEP. EM DINHEIRO",
+      "complement": "",
+      "amount": "50.0"
+    },
+    {
+      "date": "2020-08-25",
+      "description": "DEP. EM DINHEIRO",
+      "complement": "teste dep identifica",
+      "amount": "5000.0"
+    },
+    {
+      "date": "2020-08-25",
+      "description": "PGTO CHEQUE AVULSO",
+      "complement": "",
+      "amount": "-10.0"
+    },
+    {
+      "date": "2020-08-25",
+      "description": "TARIFA TED PADRÃO (DÉBITO)",
+      "complement": "LUCAS THOMAZONI",
+      "amount": "-10.0"
+    },
+    {
+      "date": "2020-08-25",
+      "description": "TED - (DÉBITO)",
+      "complement": "LUCAS THOMAZONI",
+      "amount": "-15.0"
+    }
+  ],
+  "quinze":[
+    {
+      "date": "2020-08-25",
+      "description": "Quinze",
+      "complement": "684835",
+      "amount": "150.0"
+    },
+    {
+      "date": "2020-08-25",
+      "description": "DEP. EM DINHEIRO",
+      "complement": "",
+      "amount": "50.0"
+    }],
+  "mes":[
+    {
+      "date": "2020-08-25",
+      "description": "mes",
+      "complement": "684835",
+      "amount": "150.0"
+    },
+    {
+      "date": "2020-08-25",
+      "description": "DEP. EM DINHEIRO",
+      "complement": "",
+      "amount": "50.0"
+    }],
+  "filterInput":[
+    {
+      "date": "2020-08-25",
+      "description": "Filtrado",
+      "complement": "684835",
+      "amount": "150.0"
+    },
+    {
+      "date": "2020-08-25",
+      "description": "DEP. EM DINHEIRO",
+      "complement": "",
+      "amount": "50.0"
+    }]
+}
